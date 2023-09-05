@@ -1,6 +1,6 @@
-## Passos
+## Steps
 
-- Clonar o projeto
-- Criar uma conta em: https://openai.com/
-- Gerar um chave em: https://platform.openai.com/account/api-keys
-- No projeto, deve criar uma variável de ambiente contendo a chave: OPENAI_API_KEY
+- Clone the project
+- Sign Up on: https://openai.com/
+- Get a API key in: https://platform.openai.com/account/api-keys
+- Create a .env variable with this title: OPENAI_API_KEY
